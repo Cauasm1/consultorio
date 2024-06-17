@@ -1,5 +1,6 @@
 <?php
 class consultorio
+
 {
     private $nome;
     private $anoNasc;
